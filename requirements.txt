@@ -1,0 +1,11 @@
+scipy
+trl
+transformers
+accelerate
+peft
+bitsandbytes
+einops
+tiktoken
+streamlit
+pdfminer.six
+torch
